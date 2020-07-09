@@ -4,6 +4,11 @@ I'm an engineering manager at [Amazon](https://github.com/amzn) helping make com
 
 I am passionate about using technology and data as tools for storytelling, insight, communication, and understanding - in particular where data and technology can foster organizational innovation and cultural change.
 
+Favorite languages:
+- Erlang
+- Go
+- Python
+
 <!--
 **dethtron5000/dethtron5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
