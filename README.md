@@ -1,6 +1,6 @@
 ### Hi, I'm Peter.
 
-I'm an engineering manager at [Amazon](https://github.com/amzn) helping make comics more accessible and fun on digital devices.  Previously, I led the development of news publishing platforms, content systems, and APIs at [NBC News Digital](https://github.com/nbcnews), worked to marry data, technology and design at [IDEO](https://github.com/ideo), and launch the digital group at Marvel Entertainment (which doesn't have a Github).
+I'm an engineering manager at [Amazon](https://github.com/amzn), helping you find the right movie or show on Prime Video. At Amazon I've also helped make comics more accessible, high quality and fun on digital devices.  Previously, I led the development of news publishing platforms, content systems, and APIs at [NBC News Digital](https://github.com/nbcnews), worked to marry data, technology and design at [IDEO](https://github.com/ideo), and launch the digital group at Marvel Entertainment (which doesn't have a Github).
 
 I am passionate about using technology and data as tools for storytelling, insight, communication, and understanding - in particular where data and technology can foster organizational innovation and cultural change.
 
